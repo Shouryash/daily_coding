@@ -14,9 +14,9 @@ public class Area_of_circle {
 		areaOfCircle= PI * radius * radius;
 		circumference= 2 * PI * radius;
 		
-		System.out.println("Area Of Circle is: % .2f" +areaOfCircle);
+		System.out.println("Area Of Circle is: " +areaOfCircle);
 		
-		System.out.println("circumference of circle  is : % .2f" +areaOfCircle);
+		System.out.println("circumference of circle  is : " +areaOfCircle);
 			}
 	
 }
