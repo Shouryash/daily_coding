@@ -1,4 +1,4 @@
-// using all types of operator we develop this code 
+// using all types of operator we develop this code using if else stetment
 
 
 
