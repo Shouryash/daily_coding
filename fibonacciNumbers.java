@@ -10,10 +10,10 @@ public class fibonacciNumbers {
 		
 		while(Number1<=Number2) 
 		{
-			res=Number1+res;
+			int ros=Number1+res;
 			System.out.println(Number1);
 			
-			Number1=res;
+			Number1=ros;
 			res++;
 			
 			
